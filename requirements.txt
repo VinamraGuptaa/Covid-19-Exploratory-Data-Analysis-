@@ -10,3 +10,4 @@ scikit-learn==0.24.1
 scipy==1.6.2
 seaborn==0.11.1
 streamlit==0.88.0
+gunicorn==19.0.0
