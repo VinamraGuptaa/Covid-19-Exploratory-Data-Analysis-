@@ -32,7 +32,7 @@ st.sidebar.markdown("Select the Charts/Plots accordingly:")
 
 @st.cache(allow_output_mutation=True)
 def load_data(nrows):
-    data = pd.read_csv("C:/Users/vinam/Downloads/Latest Covid-19 India Status.csv")
+    data = pd.read_csv("Latest Covid-19 India Status.csv")
     return data
     
 df = load_data(36)    
