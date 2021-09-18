@@ -10,7 +10,7 @@ from re import L
 
 import pandas as pd
 import numpy as np
-import folium
+
 import plotly.express as px
 from sklearn.linear_model import LinearRegression
 import plotly.graph_objects as go
