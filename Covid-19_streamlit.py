@@ -7,7 +7,7 @@
 # 
 
 from re import L
-from folium.map import FitBounds
+
 import pandas as pd
 import numpy as np
 import folium
